@@ -26,7 +26,7 @@ I'm looking to collaborate on projects in the following areas:
 - **Creative Projects**: Aesthetics, fashion, music, and crafts
 
 ## 📈 Future Goals
-I am working towards building a tech enterprise that merges my interests in AI, data engineering, and creative innovation. My vision is to create impactful solutions that drive progress and make a difference in the tech industry.
+I am working towards building a tech enterprise that merges my interests in AI, data engineering, and creative innovation. My vision is to create impactful solutions that drive progress and make a difference in the tech and science industries.
 
 ## 📫 Contact Information
 If you’re interested in collaboration or discussing a project, feel free to reach out:
