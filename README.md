@@ -14,8 +14,8 @@ I have a diverse set of interests that drive both my professional and personal p
 - **Python 3** through Codecademy.com
 - **Bachelor of Science in Computer Science** at WGU
 - In the future, I am aiming to get into:
--   **Georgia Tech's Online Master of Science in Computer Science**, **Columbia University's Online Master of Sciecne in Computer Science**, **John Hopkins University's Online Master of Science in Applied and Computational Mathematics,** or **Northwestern University's Online Master of Science in Artificial Intelligence**
--   **CalTech's Computing and Mathematical Sciences (CMS) PhD program**
+  **Georgia Tech's Online Master of Science in Computer Science**, **Columbia University's Online Master of Sciecne in Computer Science**, **John Hopkins University's Online Master of Science in Applied and Computational Mathematics,** or **Northwestern University's Online Master of Science in Artificial Intelligence**
+  **CalTech's Computing and Mathematical Sciences (CMS) PhD program**
 
 ## 💡 Collaboration Opportunities
 I'm looking to collaborate on projects in the following areas:
